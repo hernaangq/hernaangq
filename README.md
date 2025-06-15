@@ -17,8 +17,8 @@
 
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hernaangq&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hernaangq)](https://git.io/streak-stats)
 
-![Most Used Languages](https://raw.githubusercontent.com/hernaangq/github-stats-transparent/output/generated/languages.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernaangq)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)

@@ -3,11 +3,21 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-Hern%C3%A1n%20Garc%C3%ADa%20Quijano-blue?style=social&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/hernan-garcia-quijano)](https://www.linkedin.com/in/hernan-garcia-quijano)
 [![Gmail Badge](https://img.shields.io/badge/-hernangarqui-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:hernangarqui@gmail.com)](mailto:hernangarqui@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/hernaangq?label=Follow&style=social)](https://github.com/hernaangq)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 * Master’s graduate in **Telecommunications Engineering** from **Universidad Politécnica de Madrid (UPM)** 🇪🇸  
 * Currently pursuing a **Master’s in Computer Science** at the **Illinois Institute of Technology**, Chicago 🇺🇸  
 * Worked on the **UPMSat-3** mission-critical software and **AI-driven systems** at the STRAST research group (UPM)  
-* Tech stack: `C`, `Python`, `Java`, `JavaScript`, `MATLAB`, `Docker`, `Kubernetes`, `Git`, `LaTeX`  
+* Tech stack: ![C](https://img.shields.io/badge/-C-555555?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift\&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)  
 * Passionate about embedded systems, satellite software, and machine learning applications  
 
 
@@ -62,4 +72,5 @@ I have these six projects **pinned on my GitHub profile** as highlights from my 
 ### 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hernaangq)](https://git.io/streak-stats)  
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hernaangq&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)

@@ -31,9 +31,9 @@
 ## Education
 - **Master’s in Computer Science**, Illinois Institute of Technology, Chicago (2025–2026)  
 - **Master’s in Telecommunications Engineering**, UPM – Madrid, Spain (2024–2026)  
-  - GPA: 8.07 / 10 — Top 30% with Honor Distinctions  
+  - GPA: 8.07 / 10 — 30% of subjects with Honor Distinctions  
 - **Bachelor’s in Telecommunication Technologies and Services**, UPM – Madrid, Spain (2020–2024)  
-  - GPA: 3.63 / 4 — Top 27% with Honor Distinctions  
+  - GPA: 3.63 / 4 — 27% of subjects with Honor Distinctions  
   - Final Project: **"UPMSat-3 Satellite: Development of the Computer Platform"** (Grade: 10/10, Honor Distinction)  
 
 

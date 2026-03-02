@@ -73,5 +73,3 @@ I have these projects **pinned on my GitHub profile** as highlights from my stud
 ### 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hernaangq)](https://git.io/streak-stats)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hernaangq&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)

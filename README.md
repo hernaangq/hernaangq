@@ -56,7 +56,7 @@
 
 ## 📌 Featured Repositories
 
-I have these six projects **pinned on my GitHub profile** as highlights from my Bachelor studies and personal exploration — a mix of academic work and fun challenges:
+I have these projects **pinned on my GitHub profile** as highlights from my studies and personal exploration — a mix of academic work and fun challenges:
 
 | Project                                                                         | Description                                                                                                    | Tech & Stats                                                                                                                                                                            |
 | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -66,7 +66,8 @@ I have these six projects **pinned on my GitHub profile** as highlights from my 
 | [WebDeployments](https://github.com/hernaangq/WebDeployments)                   | A full-stack web application deployment project focused on microservices and cloud orchestration.              | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/hernaangq/WebDeployments?style=social)          |
 | [MyQuizzes-SwiftApp](https://github.com/hernaangq/MyQuizzes-SwiftApp)           | A native iOS quiz app built with Swift and SwiftUI, focusing on UI design, state management, and navigation.   | ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift\&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/hernaangq/MyQuizzes-SwiftApp?style=social)         |
 | [MedTecServer](https://github.com/hernaangq/MedTecServer)                       | A backend server using Spring Boot, providing RESTful APIs for healthcare data management and medical devices. | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/hernaangq/MedTecServer?style=social)                  |
-
+| [LoopShare](https://github.com/hernaangq/sharedloop)                           | AI-powered desk-sharing marketplace that connects startups to empty Loop offices using Chicago open data and ML occupancy predictions. | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/hernaangq/sharedloop?style=social) |
+| [FinAgentRL](https://github.com/hernaangq/FinAgentRL)                           | A reinforcement learning agent for financial trading and portfolio optimization. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/hernaangq/FinAgentRL?style=social) |
 
 
 ### 📊 GitHub Stats
